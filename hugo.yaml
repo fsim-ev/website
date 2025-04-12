@@ -2,6 +2,7 @@ baseURL: https://fsim-ev.de/
 languageCode: de-DE
 title: Fachschaft IM
 theme: "PaperMod"
+copyright: © Fachschaft IM 2025
 
 enableRobotsTXT: true
 buildDrafts: false
@@ -66,7 +67,9 @@ params:
 
   homeInfoParams:
     Title: Willkommen bei der Fachschaft IM
-    Content: Hier kannst du mehr über die Fachschaft Informatik und Mathematik herausfinden
+    Content: >
+      Hier kannst du mehr über die Fachschaft Informatik und Mathematik herausfinden
+      ![Fakultät IM](/images/k_gebäude.jpg)
 
   socialIcons: # optional
     - name: zulip

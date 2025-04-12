@@ -22,8 +22,9 @@ Internet: https://www.fsim-ev.de
 Florian Watzin (Vorstand) \
 Simon Lehrmaier (Vorstand) \
 Registergericht: Amtsgericht Regensburg \
-Registernummer: VR 200223 \
-Inhaltlich Verantwortlicher gemäß § 6 MDStV: Jelena Sumar
+Registernummer: VR 200223 
+
+Inhaltlich Verantwortlicher gemäß § 6 MDStV: Ole Bendixen
 
 ### Haftungshinweis
 Trotz sorgfältiger inhaltlicher Kontrolle übernehmen wir keine Haftung für die Inhalte externer Links. Für den Inhalt der verlinkten Seiten sind ausschließlich deren Betreiber verantwortlich.
