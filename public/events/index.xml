@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Events on Fachschaft IM</title>
+    <link>http://localhost:1313/events/</link>
+    <description>Recent content in Events on Fachschaft IM</description>
+    <generator>Hugo -- 0.145.0</generator>
+    <language>de</language>
+    <lastBuildDate>Sat, 12 Apr 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/events/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Zukünftiges Event</title>
+      <link>http://localhost:1313/events/future-events/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/events/future-events/</guid>
+      <description>&lt;h2 id=&#34;here-ist-ein-event-in-der-zukunft&#34;&gt;Here ist ein Event in der Zukunft&lt;/h2&gt;</description>
+    </item>
+    <item>
+      <title>Linux Install Party: SoSe 2025</title>
+      <link>http://localhost:1313/events/lip-09-04-2025/</link>
+      <pubDate>Sat, 12 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/events/lip-09-04-2025/</guid>
+      <description>&lt;h2 id=&#34;linux-install-party-am-09042025&#34;&gt;Linux Install Party am 09.04.2025&lt;/h2&gt;
+&lt;p&gt;Wie jedes Semester werden wir auch dieses mal unsere Linux Install Party abhalten. Prof. Kai Selgrad und Prof. Timo Baumann werden einen
+Vortrag über Linux und &amp;ldquo;Data-Science auf dem Terminal&amp;rdquo; halten.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

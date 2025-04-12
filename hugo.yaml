@@ -1,3 +1,111 @@
 baseURL: https://example.org/
-languageCode: en-us
-title: My New Hugo Site
+languageCode: de-DE
+title: Fachschaft IM
+theme: "PaperMod"
+
+enableRobotsTXT: true
+buildDrafts: false
+buildFuture: false
+buildExpired: false
+mainsections: ["posts", "events"]
+
+minify:
+  disableXML: true
+  minifyOutput: true
+
+    # - identifier: example
+    #   name: example.org
+    #   url: https://example.org
+    #   weight: 30
+
+params:
+  env: production # to enable google analytics, opengraph, twitter-cards and schema.
+  title: Fachschaft IM
+  description: "Homepage der Fachschaft IM"
+  keywords: [Blog, Portfolio, PaperMod]
+  author: Ole Bendixen
+  # author: ["Me", "You"] # multiple authors
+  # images: ["<link or path of image for opengraph, twitter-cards>"]
+  DateFormat: "January 2, 2006"
+  defaultTheme: dark # dark, light
+  disableThemeToggle: false
+
+  ShowReadingTime: true
+  ShowShareButtons: false
+  ShowPostNavLinks: true
+  ShowBreadCrumbs: true
+  ShowCodeCopyButtons: true
+  ShowWordCount: true
+  ShowRssButtonInSectionTermList: true
+  UseHugoToc: true
+  disableSpecial1stPost: true
+  disableScrollToTop: false
+  comments: false
+  hidemeta: false
+  hideSummary: false
+  showtoc: true
+  tocopen: false
+  ShowPostNavLinks: true
+  draft: false
+  searchHidden: false
+
+  fuseOpts:
+    isCaseSensitive: false
+    shouldSort: true
+    location: 0
+    distance: 1000
+    threshold: 0.4
+    minMatchCharLength: 0
+    # limit: 10 # refer: https://www.fusejs.io/api/methods.html#search
+    keys: ["title", "permalink", "summary", "content"]
+
+  # profile-mode
+  profileMode:
+    enabled: false # needs to be explicitly set
+
+
+  homeInfoParams:
+    Title: Willkommen bei der Fachschaft IM
+    Content: Hier kannst du mehr über die Fachschaft Informatik und Mathematik herausfinden
+
+  socialIcons: # optional
+    - name: Zulip
+      title: "Zulip"
+      url: "https://chat.fsim-ev.de"
+    - name: nextcloud
+      title: "Nextcloud"
+      url: "https://cloud.fsim-ev.de"
+    - name: instagram
+      title: Instagram
+      url: https://instagram.com/fachschaft.im
+    - name: discord
+      title: Discord
+      url: https://discord.gg/eSEBseC
+
+  editPost:
+    URL: "https://gitlab.oth-regensburg.de/adityatelange/hugo-PaperMod/tree/exampleSite/content"
+    Text: "Suggest Changes" # edit text
+    appendFilePath: true # to append file path to Edit link
+
+languages:
+  de:
+    languageName: "Deutsch"
+    weight: 1
+    menu:
+      main:
+        - identifier: 
+          name: Events
+          url: /events/
+          weight: 10
+        - identifier:
+          name: Suche
+          url: search
+          weight: 20
+        - identifier:
+          name: Impressum
+          url: impressum
+          weight: 500
+
+
+defaultContentLanguage: de  
+pygmentsUseClasses: true

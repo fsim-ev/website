@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Hello-World on Fachschaft IM</title>
+    <link>http://localhost:1313/tags/hello-world/</link>
+    <description>Recent content in Hello-World on Fachschaft IM</description>
+    <generator>Hugo -- 0.145.0</generator>
+    <language>de</language>
+    <lastBuildDate>Sat, 12 Apr 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/hello-world/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hello World</title>
+      <link>http://localhost:1313/posts/hello-world/</link>
+      <pubDate>Sat, 12 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/hello-world/</guid>
+      <description>&lt;h2 id=&#34;hello-world&#34;&gt;Hello World&lt;/h2&gt;
+&lt;p&gt;Willkommen bei der Fachschaft IM.&lt;/p&gt;
+&lt;p&gt;Hier findest du Informationen die dir hoffentlich beim Studium helfen.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
