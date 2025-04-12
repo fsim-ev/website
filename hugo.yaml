@@ -9,9 +9,9 @@ buildFuture: false
 buildExpired: false
 mainsections: ["posts", "events"]
 
-minify:
-  disableXML: true
-  # minifyOutput: true
+# minify:
+#   disableXML: true
+#   minifyOutput: true
 
     # - identifier: example
     #   name: example.org
