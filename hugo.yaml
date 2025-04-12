@@ -1,4 +1,4 @@
-baseURL: https://example.org/
+baseURL: https://fsim-ev.de/
 languageCode: de-DE
 title: Fachschaft IM
 theme: "PaperMod"
@@ -11,7 +11,7 @@ mainsections: ["posts", "events"]
 
 minify:
   disableXML: true
-  minifyOutput: true
+  # minifyOutput: true
 
     # - identifier: example
     #   name: example.org
@@ -22,7 +22,7 @@ params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
   title: Fachschaft IM
   description: "Homepage der Fachschaft IM"
-  keywords: [Blog, Portfolio, PaperMod]
+  # keywords: []
   author: Ole Bendixen
   # author: ["Me", "You"] # multiple authors
   # images: ["<link or path of image for opengraph, twitter-cards>"]
@@ -49,15 +49,15 @@ params:
   draft: false
   searchHidden: false
 
-  fuseOpts:
-    isCaseSensitive: false
-    shouldSort: true
-    location: 0
-    distance: 1000
-    threshold: 0.4
-    minMatchCharLength: 0
-    # limit: 10 # refer: https://www.fusejs.io/api/methods.html#search
-    keys: ["title", "permalink", "summary", "content"]
+  # fuseOpts:
+  #   isCaseSensitive: false
+  #   shouldSort: true
+  #   location: 0
+  #   distance: 1000
+  #   threshold: 0.4
+  #   minMatchCharLength: 1
+  #   # limit: 10 # refer: https://www.fusejs.io/api/methods.html#search
+  #   keys: ["title", "permalink", "summary", "content"]
 
   # profile-mode
   profileMode:
@@ -69,11 +69,11 @@ params:
     Content: Hier kannst du mehr über die Fachschaft Informatik und Mathematik herausfinden
 
   socialIcons: # optional
-    - name: Zulip
-      title: "Zulip"
-      url: "https://chat.fsim-ev.de"
+    - name: zulip
+      title: Zulip
+      url: https://chat.fsim-ev.de
     - name: nextcloud
-      title: "Nextcloud"
+      title: Nextcloud
       url: "https://cloud.fsim-ev.de"
     - name: instagram
       title: Instagram
@@ -83,7 +83,7 @@ params:
       url: https://discord.gg/eSEBseC
 
   editPost:
-    URL: "https://gitlab.oth-regensburg.de/adityatelange/hugo-PaperMod/tree/exampleSite/content"
+    URL: "https://gitlab.oth-regensburg.de/IM/Lab_fachschaft/website-hugo/-/tree/main/content"
     Text: "Suggest Changes" # edit text
     appendFilePath: true # to append file path to Edit link
 
@@ -97,10 +97,10 @@ languages:
           name: Events
           url: /events/
           weight: 10
-        - identifier:
-          name: Suche
-          url: search
-          weight: 20
+        # - identifier:
+        #   name: Suche
+        #   url: suche
+        #   weight: 20
         - identifier:
           name: Impressum
           url: impressum
