@@ -1,8 +1,7 @@
 # Die Fachschafts website
 
 ## Developing
-`nix flake develop` / `direnv allow .`
-
-dann
-
-`hugo server`
+- `git pull`
+- `git submodule upate --init`
+- `nix flake develop` / `direnv allow .`
+- `hugo server`
