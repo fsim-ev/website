@@ -20,7 +20,7 @@ Internet: https://www.fsim-ev.de
 
 ### Vertretungsberechtigter Vorstand:
 Florian Watzin (Vorstand) \
-Simon Lehrmaier (Vorstand) \
+Simon Lehmaier (Vorstand) \
 Registergericht: Amtsgericht Regensburg \
 Registernummer: VR 200223 
 
