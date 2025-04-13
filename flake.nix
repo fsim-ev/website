@@ -4,7 +4,8 @@
   inputs = {
     nixpkgs.url = "github:nixos/nixpkgs?ref=nixos-unstable";
     papermod-theme = {
-      url = "github:adityatelange/hugo-PaperMod";
+      #url = "github:adityatelange/hugo-PaperMod";
+      url = "github:haennes/hugo-PaperMod";
       flake = false;
     };
   };
