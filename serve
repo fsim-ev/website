@@ -1,0 +1,2 @@
+#!/bin/sh
+nix run .#dev --builders "" # disable builders as this it to small
