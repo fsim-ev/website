@@ -1,4 +1,4 @@
-{ pkgs, inputs, ... }:
+{ pkgs, inputs, buildArgs ? "", ... }:
 
 pkgs.stdenv.mkDerivation {
   pname = "fachschaft-IM-website";
@@ -16,7 +16,7 @@ pkgs.stdenv.mkDerivation {
   '';
 
   buildPhase = ''
-    hugo build
+    hugo build ${buildArgs}
   '';
 
   installPhase = ''

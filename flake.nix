@@ -18,9 +18,10 @@
 
       packages.x86_64-linux = rec {
       default =
-        pkgs.callPackage ./pkg.nix { inherit inputs; };
+        pkgs.callPackage ./pkg.nix { inherit inputs;};
+      dev_pkg = pkgs.callPackage ./pkg.nix { inherit inputs; buildArgs = "-b http://127.0.0.1:8000";};
       dev = pkgs.writeShellScriptBin "dev" ''
-        cd ${default}
+        cd ${dev_pkg}
         ${pkgs.python3}/bin/python3 -m http.server
       '';
       };
