@@ -16,7 +16,13 @@
       devShells.x86_64-linux.default =
         pkgs.mkShell { nativeBuildInputs = with pkgs; [ hugo ]; };
 
-      packages.x86_64-linux.default =
+      packages.x86_64-linux = rec {
+      default =
         pkgs.callPackage ./pkg.nix { inherit inputs; };
+      dev = pkgs.writeShellScriptBin "dev" ''
+        cd ${default}
+        ${pkgs.python3}/bin/python3 -m http.server
+      '';
+      };
     };
 }
