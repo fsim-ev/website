@@ -19,8 +19,8 @@ E-Mail: fachschaft_im@oth-regensburg.de \
 Internet: https://www.fsim-ev.de
 
 ### Vertretungsberechtigter Vorstand:
-Florian Watzin (Vorstand) \
-Simon Lehmaier (Vorstand) \
+Simon Lehmaier (1. Vorstand) \
+Florian Watzin (2. Vorstand) \
 Registergericht: Amtsgericht Regensburg \
 Registernummer: VR 200223 
 
