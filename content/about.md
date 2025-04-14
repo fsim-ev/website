@@ -39,16 +39,5 @@ Bei uns könnt ihr am billigsten an der OTH drucken. Dafür müsst ihr aber Stud
 Du findest haufenweise Lernmaterialien auf unserer [cloud](https://cloud.fsim-ev.de). Dort kannst du dich ganze einfach mit deiner RZ-Kennung anmelden.
 
 ### Getränke & Snacks
-Wir verkaufen Getränke & Snacks.
-
-| Was | Preis |
-|-----|-------|
-| Club Mate | 1,20€ |
-| Paulaner Spezi | 1,00€ |
-| Verschiedene Säfte | 0,80€ |
-| Wasser | 0,50€ |
-| Bier (Eichhofner Helles) | 1,50€ |
-| Mio Mio Mate (Zero, Ginger, Cola, Banane) | 1,50€ |
-
-Natürlich kann es sein, dass gerade bestimmte Getränke bzw. Snacks aus sein können. Die Tabelle stellt nur da, was wir normalerweise haben.
+Wir bieten Getränke & Snacks. Kommt einfach vorbei ;)
 
