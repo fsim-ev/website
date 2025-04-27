@@ -8,4 +8,4 @@ author: "Ole Bendixen"
 # author: ["Me", "You"] # multiple authors
 ---
 
-Am **Montag dem 29.04.25 um 17:00 Uhr** findet unsere offene Fachschaftsveranstaltung statt. Kommt gerne vorbei: Es gibt Pizza und Freigetränke :)
+Am **Dienstag dem 29.04.25 um 17:00 Uhr** findet unsere offene Fachschaftsveranstaltung statt. Kommt gerne vorbei: Es gibt Pizza und Freigetränke :)
