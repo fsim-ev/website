@@ -3,10 +3,15 @@ stages:
   - preview
 
 preview-page:
-    stage: preview
-    script:
-        - nix build .#default
-        - pushd result
-        - python3 -m http.server
-        - popd
+  stage: preview
+  script:
+    - nix build --extra-experimental-features nix-command .#default
+    - cp result derefresult
+    - zip -r website.zip derefresult
+  artifacts:
+    name: "website-${CI_COMMIT_REF_NAME}"
+    when: always
+    paths:
+      - website.zip
+
 
