@@ -6,7 +6,7 @@ preview-page:
   stage: preview
   script:
     - nix build --extra-experimental-features nix-command --extra-experimental-features flakes .#default
-    - cp result derefresult
+    - cp -r result derefresult
     - zip -r website.zip derefresult
   artifacts:
     name: "website-${CI_COMMIT_REF_NAME}"
