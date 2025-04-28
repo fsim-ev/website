@@ -19,11 +19,11 @@
     "papermod-theme": {
       "flake": false,
       "locked": {
-        "lastModified": 1744551339,
-        "narHash": "sha256-5ULGfWsdTLL9DRoAZjjr4S1/IN45X9PPmkDxgKq7YmI=",
+        "lastModified": 1745872246,
+        "narHash": "sha256-9B1/0sFOnVBs5NW9Lqp6/MyQ4IJhK2Xy2VnstLpiKzQ=",
         "owner": "haennes",
         "repo": "hugo-PaperMod",
-        "rev": "fffd05662ff83ae8bde3d3fc43ac8714211dee4b",
+        "rev": "7e5a746bff95c25be409ca118f9c11304cc5394c",
         "type": "github"
       },
       "original": {
