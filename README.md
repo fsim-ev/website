@@ -1,5 +1,12 @@
 # Die Fachschafts website
 
+## CICD:
+1. Artefakte herunterladen
+1. Zip entpacken (runner Artefakte)
+1. zip entpacken (website.zip)
+1. in entpacktem ordner: `python3 -m http.server`
+1. angezeigten Link öffnen
+
 ## Developing
 - `git pull`
 - `git submodule upate --init`
