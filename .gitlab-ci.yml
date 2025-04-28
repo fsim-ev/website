@@ -1,0 +1,12 @@
+
+stages:          
+  - preview
+
+preview-page:
+    stage: preview
+    script:
+        - nix build .#default
+        - pushd result
+        - python3 -m http.server
+        - popd
+
