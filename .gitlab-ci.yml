@@ -5,9 +5,9 @@ stages:
 preview-page:
   stage: preview
   script:
-    - nix build --extra-experimental-features nix-command .#default
-    - cp result derefresult
-    - zip -r website.zip derefresult
+    - nix build --extra-experimental-features nix-command --extra-experimental-features flakes .#dev_pkg
+    - cp -r result derefresult
+    - nix-shell -p zip --command "zip -r website.zip derefresult"
   artifacts:
     name: "website-${CI_COMMIT_REF_NAME}"
     when: always
