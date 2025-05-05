@@ -40,4 +40,4 @@ editPost:
 
 Willkommen bei der Fachschaft IM.
 
-Hier findest du Informationen die dir hoffentlich beim Studium helfen.
+Hier findest du Informationen und Leute die dir hoffentlich beim Studium helfen.
