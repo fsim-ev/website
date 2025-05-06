@@ -7,6 +7,9 @@ tags: ["impressum"]
 author: "Ole Bendixen"
 # author: ["Me", "You"] # multiple authors
 ---
+
+[Datenschutzerklärung](/datenschutz)
+
 ### Kontakt
 FSIM e.V. \
 Fachschaft Informatik Mathematik \
