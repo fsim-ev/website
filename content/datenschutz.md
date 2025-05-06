@@ -72,7 +72,8 @@ Sinne des TDDDG umfasst. Die Einwilligung ist jederzeit widerrufbar.
 Unser(e) Hoster wird bzw. werden Ihre Daten nur insoweit verarbeiten, wie dies zur Erfüllung seiner
 Leistungspflichten erforderlich ist und unsere Weisungen in Bezug auf diese Daten befolgen.
 Wir setzen folgende(n) Hoster ein:
-Fakultät Informatik und Mathematik, Seybothstraße 2, 93053 Regensburg
+
+Fakultät Informatik und Mathematik OTH Regensburg, Galgenberstr. 32, 93053 Regensburg
 ## 3. Allgemeine Hinweise und Pflichtinformationen
 ### Datenschutz
 Die Betreiber dieser Seiten nehmen den Schutz Ihrer persönlichen Daten sehr ernst. Wir behandeln Ihre
@@ -86,10 +87,12 @@ Wir weisen darauf hin, dass die Datenübertragung im Internet (z. B. bei der Kom
 Sicherheitslücken aufweisen kann. Ein lückenloser Schutz der Daten vor dem Zugriff durch Dritte ist nicht
 möglich.
 ### Hinweis zur verantwortlichen Stelle
-Die verantwortliche Stelle für die Datenverarbeitung auf dieser Website ist:
-Fachschaft Informatik Mathematik OTH Regensburg Galgenbergstr. 32, 93053 Regensburg
-Telefon: +49 (0)941 / 943 – 1276
+Die verantwortliche Stelle für die Datenverarbeitung auf dieser Website ist: \
+
+Fachschaft Informatik Mathematik OTH Regensburg Galgenbergstr. 32, 93053 Regensburg \
+Telefon: +49 (0)941 / 943 – 1276 \
 E-Mail: fachschaft_im@oth-regensburg.de
+
 Verantwortliche Stelle ist die natürliche oder juristische Person, die allein oder gemeinsam mit anderen über
 die Zwecke und Mittel der Verarbeitung von personenbezogenen Daten (z. B. Namen, E-Mail-Adressen o. Ä.)
 entscheidet.
