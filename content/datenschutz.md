@@ -89,7 +89,7 @@ möglich.
 ### Hinweis zur verantwortlichen Stelle
 Die verantwortliche Stelle für die Datenverarbeitung auf dieser Website ist: \
 
-Fachschaft Informatik Mathematik OTH Regensburg Galgenbergstr. 32, 93053 Regensburg \
+FSIM e.V., Fachschaft Informatik Mathematik OTH Regensburg Galgenbergstr. 32, 93053 Regensburg \
 Telefon: +49 (0)941 / 943 – 1276 \
 E-Mail: fachschaft_im@oth-regensburg.de
 
