@@ -1,7 +1,7 @@
 ---
 title: "Tag der offenen Fachschaft im Sommersemester 2025"
-# date: 2020-09-15T11:30:03+00:00
-weight: 1
+date: 2025-04-29
+# weight: 1
 # aliases: ["/first"]
 tags: ["tag der offenen Fachschaft"]
 author: "Ole Bendixen"
