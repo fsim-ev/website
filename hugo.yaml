@@ -90,6 +90,13 @@ params:
     Text: "Suggest Changes" # edit text
     appendFilePath: true # to append file path to Edit link
 
+  assets:
+    favicon: "/assets/favicon.ico"
+    # android-chrome-192x192.png   android-chrome-512x512.png
+    favicon16x16: "/assets/favicon-16x16.png"
+    favicon32x32: "/assets/favicon-32x32.png"
+    apple_touch_icon: "/assets/apple-touch-icon.png"
+
 languages:
   de:
     languageName: "Deutsch"
