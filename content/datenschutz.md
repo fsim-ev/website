@@ -25,6 +25,10 @@ Unser Webserver nutzt die, um die Daten die abgefragt werden, zu senden. Darübe
 Gibt es bei uns alles nicht. Wir speichern und verarbeiten keine Daten zu anderen Zwecken, als die genannten Dienste zur verfügung zu stellen,
 wir nutzen sie nicht zu Werbezwecken und wir geben sie auch nicht dafür weiter. Nicht mal wenn ihr wollen würdet.
 
+## Cookies
+
+Die einzigen cookies die bei uns im Browser gesetzt werden, ist die Anti-Bot Protection. Diese verhindert, dass Bots ungefragt auf die Seite kommen.
+
 ---
 
 ## 1. Datenschutz auf einen Blick
