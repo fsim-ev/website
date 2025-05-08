@@ -30,10 +30,10 @@ Bei uns könnt ihr am billigsten an der OTH drucken. Dafür müsst ihr aber Stud
 
 | Was | Preis bei uns | Preis bei der Bibliothek |
 |-----|---------------|--------------------------|
-| DIN A4 schwarz-weiß | 0,01€ | 0,03€ |
-| DIN A4 farbig | 0,12€ | 0,xx€ |
-| DIN A3 schwarz-weiß | 0,xx€ | 0,xx€ |
-| DIN A3 farbig | 0,xx€ | 0,xx€ |
+| DIN A4 schwarz-weiß | 0,01€ | 0,04€ |
+| DIN A4 farbig | 0,12€ | 0,15€ |
+| DIN A3 schwarz-weiß | 0,05€ | 0,08€ |
+| DIN A3 farbig | 0,27€ | 0,30€ |
 
 ### Lernmaterialien
 Du findest haufenweise Lernmaterialien auf unserer [cloud](https://cloud.fsim-ev.de). Dort kannst du dich ganze einfach mit deiner RZ-Kennung anmelden.
