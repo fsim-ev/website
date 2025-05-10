@@ -9,7 +9,10 @@ author: "Ole Bendixen"
 ---
 
 ## Anmeldung
-2-3 Monate vor den Prüfungen sind die Anmeldungen für alle Prüfungen
+2-3 Monate vor den Prüfungen sind die Anmeldungen für alle Prüfungen.
+
+Im Wintersemester finden die Prüfungen im Februar statt.
+Im Sommersemester hingegen finden die Prüfungen im Juli statt.
 
 ## Abmeldung
 ~1 Montat vor den Prüfungen hat man 1,5 Wochen Zeit sich von den Prüfungen wieder abzumelden.
