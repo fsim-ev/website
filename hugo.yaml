@@ -65,11 +65,6 @@ params:
     enabled: false # needs to be explicitly set
 
 
-  homeInfoParams:
-    Title: Willkommen bei der Fachschaft IM
-    Content: >
-      Hier kannst du mehr über die Fachschaft Informatik und Mathematik herausfinden
-      ![Fakultät IM](/images/k_gebäude.jpg)
 
   socialIcons: # optional
     - name: zulip
@@ -127,7 +122,48 @@ languages:
           name: Impressum
           url: impressum
           weight: 500
+    params:
+      homeInfoParams:
+        Title: Willkommen bei der Fachschaft IM
+        Content: >
+          Hier kannst du mehr über die Fachschaft Informatik und Mathematik herausfinden.
+          ![Fakultät IM](/images/k_gebäude.jpg)
 
+  en:
+    languageName: "English"
+    weight: 2      
+    menu:
+      main:
+        - identifier: 
+          name: Events
+          url: /events/
+          weight: 10
+        - identifier:
+          name: Search
+          url: /search
+          weight: 20
+        - identifier:
+          name: FAQ
+          url: /faq/
+          weight: 30
+        - identifier:
+          name: About us
+          url: /about
+          weight: 40
+        # - identifier:
+        #   name: Suche
+        #   url: suche
+        #   weight: 20
+        - identifier:
+          name: Imprint
+          url: impressum
+          weight: 500
+    params:
+      homeInfoParams:
+        Title: Welcome to the Fachschaft IM
+        Content: >
+          You can find out more about the computer science and mathematics Fachschaft here.
+          ![Fakultät IM](/images/k_gebäude.jpg)
 
 defaultContentLanguage: de  
 pygmentsUseClasses: true
