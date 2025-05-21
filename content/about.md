@@ -8,7 +8,7 @@ author: "Ole Bendixen"
 # author: ["Me", "You"] # multiple authors
 ---
 
-![Fachschafts Foto](/images/fs_foto_wise_2024_25.jpg)
+![Fachschafts Foto](/images/fs_foto_aktuell.jpg)
 
 
 ## Was ist die Fachschaft?
@@ -26,7 +26,7 @@ Du findest uns im K033.
 
 ## Services
 ### Drucken
-Bei uns könnt ihr am billigsten an der OTH drucken. Dafür müsst ihr aber Student der Fakultät sein. Die Preise sind bei uns 0,01€ für eine schwarz-weiß DIN A4 Seite anstatt 0.03€ bei der Bibliothek.
+Bei uns könnt ihr am billigsten an der OTH drucken. Dafür müsst ihr aber Student der Fakultät sein.
 
 | Was | Preis bei uns | Preis bei der Bibliothek |
 |-----|---------------|--------------------------|
