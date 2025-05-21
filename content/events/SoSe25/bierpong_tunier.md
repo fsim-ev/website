@@ -1,7 +1,7 @@
 ---
 title: "Bierpongtunier SoSe25"
-# date: 2025-05-15
-weight: 1
+date: 2025-05-15
+# weight: 1
 # aliases: ["/first"]
 tags: ["events", "bierpongtunier" ]
 # author: "Me"
