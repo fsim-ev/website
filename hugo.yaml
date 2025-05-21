@@ -159,7 +159,6 @@ languages:
           url: impressum
           weight: 500
     params:
-      imageUrl: "/gb_flag.png"
       homeInfoParams:
         Title: Welcome to the Fachschaft IM
         Content: >
