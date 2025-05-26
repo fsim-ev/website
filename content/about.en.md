@@ -8,7 +8,7 @@ author: "Ole Bendixen"
 # author: ["Me", "You"] # multiple authors
 ---
 
-![Fachschafts Image](/images/fs_foto_aktuell.jpg)
+![Fachschafts Image](/images/fs_foto_aktuell.jpeg)
 
 
 ## What is the Fachschaft?
