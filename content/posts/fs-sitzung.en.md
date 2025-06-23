@@ -10,7 +10,7 @@ author: "Ole Bendixen"
 
 ## Date
 
-The next Fachschaftssitzung is taking place at the **26.06.2025 in K218 at 17:15 Uhr**.
+The next Fachschaftssitzung is taking place at the **23.06.2025 in K218 at 17:15 Uhr**.
 
 ## What is the Fachschaftssitzung
 
