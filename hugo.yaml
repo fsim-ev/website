@@ -98,6 +98,10 @@ languages:
     weight: 1
     menu:
       main:
+        - identifier:
+          name: Was hosten wir?
+          url: what_do_we_host
+          weight: 9
         - identifier: 
           name: Events
           url: /events/
@@ -114,10 +118,6 @@ languages:
           name: Über uns
           url: /about
           weight: 40
-        # - identifier:
-        #   name: Suche
-        #   url: suche
-        #   weight: 20
         - identifier:
           name: Impressum
           url: impressum
@@ -134,6 +134,10 @@ languages:
     weight: 2      
     menu:
       main:
+        - identifier:
+          name: What do we host?
+          url: what_do_we_host
+          weight: 9
         - identifier: 
           name: Events
           url: /events/
@@ -150,14 +154,7 @@ languages:
           name: About us
           url: /about
           weight: 40
-        # - identifier:
-        #   name: Suche
-        #   url: suche
-        #   weight: 20
-        - identifier:
-          name: Imprint
-          url: impressum
-          weight: 500
+
     params:
       homeInfoParams:
         Title: Welcome to the Fachschaft IM
