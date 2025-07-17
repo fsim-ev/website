@@ -99,8 +99,8 @@ languages:
     menu:
       main:
         - identifier:
-          name: Was hosten wir?
-          url: what_do_we_host
+          name: Services
+          url: services
           weight: 9
         - identifier: 
           name: Events
@@ -135,8 +135,8 @@ languages:
     menu:
       main:
         - identifier:
-          name: What do we host?
-          url: what_do_we_host
+          name: Services
+          url: services
           weight: 9
         - identifier: 
           name: Events
