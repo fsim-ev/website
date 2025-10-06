@@ -1,6 +1,6 @@
 ---
 title: "Linux Install Party WiSe2526"
-# date: 2025-10-06
+# date: 2025-10-15
 weight: 1
 aliases: ["/lip"]
 tags: ["events", "lip" ]
