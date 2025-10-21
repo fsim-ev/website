@@ -1,5 +1,5 @@
 ---
-title: "Halloweenparty mit Fachschaft Architektur"
+title: "Halloweenparty with Fachschaft Architektur"
 # date: 2025-05-22
 weight: 1
 # aliases: ["/first"]
