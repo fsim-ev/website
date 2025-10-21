@@ -1,7 +1,7 @@
 ---
 title: "FSIM.Init() WiSe2526"
-# date: 2025-10-14
-weight: 1
+date: 2025-10-14
+# weight: 1
 tags: ["events", "Einführung", "init" ]
 # author: "Me"
 author: ["Hannes Hofmuth"] # multiple authors
