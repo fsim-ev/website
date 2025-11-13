@@ -1,7 +1,7 @@
 ---
 title: "Halloweenparty with Fachschaft Architektur"
-# date: 2025-05-22
-weight: 1
+date: 2025-05-22
+# weight: 1
 # aliases: ["/first"]
 tags: ["events", "halloween"]
 # author: "Ole Bendixen"
