@@ -1,7 +1,7 @@
 ---
 title: "Beer pong tournament"
-# date: 2025-18-11
-weight: 1
+date: 2025-11-18
+# weight: 1
 # aliases: ["/first"]
 tags: ["events", "bierpongtunier"]
 author: "Ole Bendixen"

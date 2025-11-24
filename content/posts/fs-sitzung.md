@@ -10,7 +10,7 @@ author: "Ole Bendixen"
 
 ## Termin
 
-Am **Montag, dem 10.11.2025 im K004 um 17:15 Uhr** findet die nächste Fachschaftssitzung statt.
+Am **Montag, dem 01.12.2025 im K218 um 17:15 Uhr** findet die nächste Fachschaftssitzung statt.
 
 ## Was ist die Fachschaftssitzung
 
