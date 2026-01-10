@@ -2,7 +2,6 @@
 title: "Termin Fachschaftssitzung"
 # date: 2020-09-15T11:30:03+00:00
 weight: 1
-draft: true
 # aliases: ["/first"]
 tags: ["fs-sitzung", "Fachschafssitzung"]
 author: "Ole Bendixen"
@@ -11,7 +10,7 @@ author: "Ole Bendixen"
 
 ## Termin
 
-Am **Montag, dem 01.12.2025 im K218 um 17:15 Uhr** findet die nächste Fachschaftssitzung statt.
+Am **Montag, dem 19.01.2026 im K218 um 17:15 Uhr** findet die nächste Fachschaftssitzung statt.
 
 ## Was ist die Fachschaftssitzung
 
