@@ -10,6 +10,8 @@ author: "Ole Bendixen"
 
 [Datenschutzerklärung](/datenschutz)
 
+[Satzung FSIM e.V.](/documents/fsimev_satzung.pdf)
+
 ### Kontakt
 FSIM e.V. \
 Fachschaft Informatik Mathematik \
