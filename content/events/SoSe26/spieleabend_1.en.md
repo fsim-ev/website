@@ -1,7 +1,6 @@
 ---
 title: "Games evening"
-# date: 2025-12-15
-weight: 1
+date: 2026-03-16
 tags: ["events", "spiele" ]
 author: "Ole Bendixen"
 ---
