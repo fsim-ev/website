@@ -14,7 +14,7 @@ The next Fachschaftssitzung is taking place on **Monday, the 30.03.2026 in K218 
 
 ## What is the Fachschaftssitzung
 
-The Fachschaftssitzung is the metting of the Fachschaft to talk about current topics, discuss past events and plan new ones.
+The Fachschaftssitzung is the meeting of the Fachschaft to talk about current topics, discuss past events and plan new ones.
 
 If you are interested an the inner workings of the Fachschaft and their activities, swing by and take a look :D
 
